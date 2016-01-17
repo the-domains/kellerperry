@@ -1,0 +1,14 @@
+layout_spectrum: 0.1516106
+typography_spectrum: 0.6397849
+color:
+  saturation: 0.8010753
+  brandStrength: 0.5985663
+  lightness: 0.4587814
+  brandColors:
+    - '#010505'
+    - '#022E6F'
+    - '#E0E3EF'
+    - '#916F41'
+    - '#FF9102'
+  rhythmicContrast: 0.5376344
+name: KellerPerry
