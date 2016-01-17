@@ -1,14 +1,26 @@
-layout_spectrum: 0.1516106
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6397849
 color:
   saturation: 0.8010753
   brandStrength: 0.5985663
   lightness: 0.4587814
   brandColors:
-    - '#010505'
-    - '#022E6F'
-    - '#E0E3EF'
-    - '#916F41'
-    - '#FF9102'
+    - '#0D0C0D'
+    - '#393039'
+    - '#885D4A'
+    - '#E99A5D'
+    - '#FFD88A'
   rhythmicContrast: 0.5376344
+layout_spectrum: 0.1516106
 name: KellerPerry
