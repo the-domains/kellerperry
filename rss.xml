@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KellerPerry]]></title>
         <description><![CDATA[KellerPerry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kellerperry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 18:00:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 20:17:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kellerperry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ec080f8-3d58-4a35-a8b3-5151161f7fb0.png">]]></description>
-            <link>undefined8c844bb7-1ebd-4386-aff1-dbc394cb4318/index.html</link>
+            <link>https://thegrid.ai/kellerperry/8c844bb7-1ebd-4386-aff1-dbc394cb4318/index.html</link>
             <guid isPermaLink="false">8c844bb7-1ebd-4386-aff1-dbc394cb4318</guid>
-            <pubDate>Sun, 17 Jan 2016 17:59:51 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 20:15:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
